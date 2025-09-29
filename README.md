@@ -21,5 +21,5 @@ Weitere Projekte findest du in meinen [Repositories](https://github.com/fr0schle
 
 ---
 
-### 🌍 Über mich
-- 👨‍💻 Interesse an sauberem Code und praxisnahen Lösungen  
+### Über mich
+- Interesse an sauberem Code und praxisnahen Lösungen  
